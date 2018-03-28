@@ -1,0 +1,5 @@
+disabled_commands:
+  - cache:clear
+  - cache:pool:clear
+  - cache:pool:prune
+  - cache:warmup
